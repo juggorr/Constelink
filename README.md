@@ -365,6 +365,9 @@
 <br/>
 
 ## 🎨 기능 상세 설명
+![메인화면](https://github.com/juggorr/Constelink/assets/109324463/ff04ed4c-c64b-4451-8fff-b7179f9dfd14)
+![모금화면](https://github.com/juggorr/Constelink/assets/109324463/1265c3d0-4bc5-4629-badf-47016591ac8a)
+![모금카드](https://github.com/juggorr/Constelink/assets/109324463/6d9f77a6-0f48-42e3-b49c-28547da4f7c4)
 
 ### 👉 회원가입 , 로그인
 
@@ -387,14 +390,18 @@
 ### 👉 기부
 
 - 병원측은 등록된 환자들의 모금 등록 가능
-![모금시작](https://github.com/juggorr/Constelink/assets/109324463/b9d7ba79-236e-462b-9f35-34cba251b00b)
-- 가부자들은 KakaoPay 간편결제를 통해 자체 제작 토큰과 변환해 기부 가능
-![후원카페](https://github.com/juggorr/Constelink/assets/109324463/9fc25ef1-72e5-4afc-8fb2-640dff2756c6)
+
+- 기부자들은 KakaoPay 간편결제를 통해 자체 제작 토큰과 변환해 기부 가능
+
 - 기부자들은 기부 대상자의 정보를 확인할 수 있음
 
 - 기부한 내역은 블록체인에 기록됨
 
 - 기부 종료 시 해당 병원 지갑으로 기부금 자동 송금
+![모금시작](https://github.com/juggorr/Constelink/assets/109324463/b9d7ba79-236e-462b-9f35-34cba251b00b)
+![모금메인](https://github.com/juggorr/Constelink/assets/109324463/5bb2405f-217d-48ad-b210-8a86a0d7a898)
+![후원](https://github.com/juggorr/Constelink/assets/109324463/67cca3da-ed9f-4b30-bec8-6c11d492d3ea)
+![후원카페](https://github.com/juggorr/Constelink/assets/109324463/9fc25ef1-72e5-4afc-8fb2-640dff2756c6)
 
 <br/><br/><br/>
 
@@ -415,6 +422,8 @@
 ### 👉 통계
 
 - 현재 사이트에 기부된 총 기부액, 기부 횟수, 수혜자 등을 통계로 나타냄
+![통계](https://github.com/juggorr/Constelink/assets/109324463/3a503709-85fb-418e-9966-d1bb613871b9)
+![통계페이지](https://github.com/juggorr/Constelink/assets/109324463/eb91356a-f677-4a37-b34e-5e7cda95739d)
 
 <br/><br/><br/>
 
