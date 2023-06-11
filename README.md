@@ -387,9 +387,9 @@
 ### 👉 기부
 
 - 병원측은 등록된 환자들의 모금 등록 가능
-
+![모금시작](https://github.com/juggorr/Constelink/assets/109324463/b9d7ba79-236e-462b-9f35-34cba251b00b)
 - 가부자들은 KakaoPay 간편결제를 통해 자체 제작 토큰과 변환해 기부 가능
-
+![후원카페](https://github.com/juggorr/Constelink/assets/109324463/9fc25ef1-72e5-4afc-8fb2-640dff2756c6)
 - 기부자들은 기부 대상자의 정보를 확인할 수 있음
 
 - 기부한 내역은 블록체인에 기록됨
