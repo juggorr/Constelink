@@ -40,7 +40,7 @@
 ## 💛 팀 소개
 
 - **정원철**: Frontend 리더, UI/UX, API 설계 및 관리, 프로젝트 구조 설계, 데이터플로우 관리
-- **박정호**: Frontend, UI/UX, Web3.js, 모금
+- **박정호**: Frontend, UI/UX, 스마트 컨트랙트 작성, Web3.js, 모금
 - **남기성**: Frontend, UI/UX, 문서관리, UCC 및 발표, 와이어프레임 설계
 - **박윤환**: Backend, DevOps 담당, 아키텍처 설계, 팀장
 - **이승헌**: Backend 리더, 스마트 컨트랙트 작성, REST API 개발, Spring Security, 부팀장
