@@ -368,6 +368,7 @@
 ![메인화면](https://github.com/juggorr/Constelink/assets/109324463/ff04ed4c-c64b-4451-8fff-b7179f9dfd14)
 ![모금화면](https://github.com/juggorr/Constelink/assets/109324463/1265c3d0-4bc5-4629-badf-47016591ac8a)
 ![모금카드](https://github.com/juggorr/Constelink/assets/109324463/6d9f77a6-0f48-42e3-b49c-28547da4f7c4)
+![마이페이지](https://github.com/juggorr/Constelink/assets/109324463/215f9eb2-a04d-4234-939e-962e96eaad56)
 
 ### 👉 회원가입 , 로그인
 
